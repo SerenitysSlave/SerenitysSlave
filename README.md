@@ -69,8 +69,8 @@ With professional internship experience and multiple personal projects, I've dev
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullah-azi&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-azi&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SerenitysSlave&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SerenitysSlave&layout=compact&theme=dark)
 
 
 * * *
